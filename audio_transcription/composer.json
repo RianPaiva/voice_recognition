@@ -1,0 +1,17 @@
+{
+    "name": "tenen/audio_transcription",
+    "autoload": {
+        "psr-4": {
+            "Tenen\\AudioTranscription\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RianPaiva",
+            "email": "rianpaiva0@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
